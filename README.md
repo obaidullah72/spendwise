@@ -1,7 +1,3 @@
-Here’s the updated version of your `README.md` for the SpendWise Flutter project, following the same pattern as the eCommerce app:
-
----
-
 # 🏦 **SpendWise - Personal Finance Tracker App**  
 
 An innovative **personal finance tracker app** built using **Flutter** and **Firebase**, designed to help users manage their expenses, track their spending, set budgets, and achieve financial goals with real-time data syncing powered by Firebase.
