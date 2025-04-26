@@ -1,0 +1,74 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+.melos_tool/
+generated_plugin_registrant.dart
+
+# Symbolication and Obfuscation related
+app.*.symbols
+app.*.map.json
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+ios/Flutter/.last_build_id
+macos/Flutter/Flutter.podspec
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/ephemeral/
+
+# Android related
+.android/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/.idea/
+*.iml
+
+# Web related
+web/generated_plugin_registrant.dart
+
+# Windows related
+windows/flutter/ephemeral/
+
+# Linux related
+linux/flutter/ephemeral/
+
+# Fuchsia related
+fuchsia/.dart_tool/
+fuchsia/build/
+
+# VS Code related
+.vscode/
+
+# IntelliJ related
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Misc
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+.DS_Store
+.atom/
+.history
+.svn/
+migrate_working_dir/
